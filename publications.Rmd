@@ -1,0 +1,48 @@
+---
+title: ""
+output: html_document
+---
+
+<style>
+body {
+  margin: 0;
+  font-family: "Helvetica", sans-serif;
+  line-height: 1.1;
+}
+</style> 
+
+
+<div class="main-content">
+
+# Publications
+
+1.  **G. I. Austin** and T. Korem, ‘Compositional transformations can reasonably introduce phenotype-associated values into sparse features’, *mSystems*, 2025.
+1. **G. I. Austin**, A. Brown Kav, H. Park, J. Biermann, A.-C. Uhlemann, and T. Korem, ‘Processing-bias correction with DEBIAS-M improves cross-study generalization of microbiome-based prediction models’, *Nature Microbiology*, 2025.
+1. A. Batuure, **G. I. Austin**, W.A. Grobman et al., ‘A Simple Data-Driven Dietary Pattern Associated with Lower Risk for Adverse Pregnancy Outcomes’. *American Journal of Obstetrics & Gynecology*, 2025.
+1. **G. I. Austin** and T. Korem, ‘Planning and Analyzing a Low-Biomass Microbiome Study: A Data Analysis Perspective’, *The Journal of Infectious Diseases*, p. jiae378, 2024.
+1. G. D. Sepich-Poore, D. McDonald, E. Kopylova, C. Guccione, Q. Zhu, **G. Austin** et al., ‘Robustness of cancer microbiome signals over a broad range of methodological variation’, *Oncogene*, vol. 43, no. 15, pp. 1127–1148, 2024.
+1. Q. S. Solfisburg, F. Baldini, B. Baldwin-Hunter, **G. I. Austin** et al., ‘The Salivary Microbiome and Predicted Metabolite Production Are Associated with Barrett’s Esophagus and High-Grade Dysplasia or Adenocarcinoma’, *Cancer Epidemiology, Biomarkers & Prevention*, vol. 33, no. 3, pp. 371–380, 2024.
+1. H. Kowalkowski, **G. Austin**, Y. Guo, L.-A. Miller-Wilson, and S. D. Byfield, ‘Patterns of colorectal cancer screening and adherence rates among an average-risk population enrolled in a national health insurance provider during 2009-2018 in the United States’, *Preventive Medicine Reports*, vol. 36, p. 102497, 2023.
+1. **G. I. Austin** et al., ‘Contamination source modeling with SCRuB improves cancer phenotype prediction from microbiome data’, *Nature Biotechnology*, vol. 41, no. 12, pp. 1820–1828, 2023.
+1. **G. Austin** et al., ‘Patterns of initial colorectal cancer screenings after turning 50 years old and follow-up rates of colonoscopy after positive stool-based testing among the average-risk population’, *Current Medical Research and Opinion*, vol. 39, no. 1, pp. 47–61, 2023.
+
+
+ 
+---
+
+## Preprints
+10. W. F. Kindschuh\*, **G. I. Austin**\*, Y. Meydan, et al., ‘Early prediction of preeclampsia using the first trimester vaginal microbiome’, *bioRxiv*, 2024.
+10. **G. I. Austin**, I. Pe’er, and T. Korem, ‘Distributional bias compromises leave-one-out cross-validation’, *arXiv*, 2024.
+
+\* Equal contribution
+ 
+ 
+---
+
+## Patent submissions
+
+12. E. Halperin, B. Hill, and **G. Austin**, ‘Methods, apparatuses and computer program products for generating predicted multi-drug contraindication data objects’. US Patent App. 18/052,508 2024.
+12. **G. Austin**, E. Halperin, F. Mohaghegh, and A. C. Palomera, ‘Machine learning training approach for a multitask predictive domain’, US Patent App. 18/155,228 2024.
+12. **G. Austin**, J. Venkataraman, F. Mohaghegh, H.R. Hassanzadeh, J.D. Stremmel, A. Saeedi, G.D. Lyng, E. Halperin, and Z.M. Poornaki, ‘Systems and methods for intelligent model training using relevant data objects’, US Patent App. 18/428,206, 2025
+
+

@@ -1,0 +1,41 @@
+---
+title: ""
+output: html_document
+includes:
+      in_header: fa.html
+---
+
+<style>
+body {
+  margin: 0;
+  font-family: "Helvetica", sans-serif;
+}
+
+
+</style>
+
+
+<div class="main-content">
+
+## About me
+
+I am a PhD candidate at Columbia University advised by [Tal Korem](https://www.koremlab.science/), working at the intersection of **machine learning**, **statistics**, and **computational biology**.  My research focuses on developing computational methods to better understand **low biomass microbiomes** and **cancer**.
+
+During my PhD, I developed machine learning methods to enable novel biological discoveries, with a focus on supporting microbiome applications to clinical settings. I have developed multiple statistical models to correct for technical challenges in microbiome research, such as contamination and processing bias, and have applied these techniques to enable novel insights into the early pathogenesis of preeclampsia, and robust microbial signals within tumors.
+
+Prior to joining Columbia’s PhD program, I worked as a machine learning scientist at UnitedHealth Group, working on challenges such as colorectal cancer screening, multi-drug interactions, and automated prior authorization approvals. 
+
+---
+
+### Research Interests
+
+- Machine learning and statistical modeling  
+- Microbiome and multi-omics integration  
+- Cancer
+
+---
+
+
+</div>
+
+

@@ -1,0 +1,31 @@
+name: "George Austin"
+output_dir: "docs"
+navbar:
+  left:
+    - text: "George I. Austin"
+      href: index.html
+    - text: "Experience"
+      href: work.html
+    - text: "Publications"
+      href: publications.html
+    - text: "Software"
+      href: software.html
+    - text: "Contact"
+      href: contact.html
+  right:
+    - icon: fa-graduation-cap
+      href: https://scholar.google.com/citations?user=YGr8DkwAAAAJ&hl=en
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/george-i-austin/
+    - icon: fa-github
+      href: https://github.com/gaustin15
+output:
+  html_document:
+    theme: cosmo
+    css: styles.css
+    highlight: textmate
+    toc: false
+    toc_float: true
+    includes:
+      before_body: sidebar.html
+

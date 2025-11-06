@@ -1,0 +1,20 @@
+---
+title: ""
+output: html_document
+---
+
+<style>
+body {
+  margin: 0;
+  font-family: "Helvetica", sans-serif;
+}
+
+</style>
+
+
+<div class="main-content">
+# Contact
+
+<i class="fas fa-envelope"></i> **Email:** gia2105@columbia.edu  
+<i class="fab fa-github"></i> **GitHub:** [github.com/gaustin15](https://github.com/gaustin15)  
+<i class="fab fa-linkedin"></i> **LinkedIn:** [linkedin.com/in/george-i-austin](https://linkedin.com/in/george-i-austin)

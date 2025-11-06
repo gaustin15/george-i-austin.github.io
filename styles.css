@@ -1,0 +1,119 @@
+/* ----- SIDEBAR (TOC) AREA ----- */
+#TOC {
+  position: fixed !important;
+  top: 100px;               /* pushes below the navbar/title */
+  left: 0;
+  width: 240px;
+  height: calc(100% - 100px);
+  padding: 20px 15px;
+  background-color: #f8f9fa;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+  border-right: 1px solid #ddd;
+  text-align: center;
+  overflow-y: auto;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  z-index: 10;
+}
+
+h1.title {
+  margin-left: 150px;  /* same as .main-content margin */
+}
+
+/* Hide default TOC list */
+#TOC ul, #TOC li {
+  display: none !important;
+}
+
+/* Optional: Sidebar text styling */
+#TOC p, #TOC a {
+  font-size: 0.9em;
+  color: #333;
+  text-decoration: none;
+  line-height: 1.6;
+}
+
+#TOC a:hover {
+  text-decoration: underline;
+}
+
+/* Image styling */
+#TOC img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  margin-bottom: 15px;
+  margin-top: 5px;
+}
+
+/* ----- MAIN BODY CONTENT ----- */
+body {
+  margin-left: 260px;   /* make space for sidebar */
+  padding: 40px 40px 40px 40px;
+  font-size: 18px;       /* scale up everything */
+  line-height: 1.5;      /* improve readability */
+  background-color: #FFFDF9;
+  margin: 0;
+  
+/* Sidebar styles */
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 220px;
+  height: 100%;
+  color: whitesmoke;
+  background-color: #374151;
+  padding: 20px;
+  border-right: 1px solid #ddd;
+  text-align: left;
+  line-height: 1.1;
+}
+
+/* Profile picture */
+.profile-pic {
+  width: 150px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+  text-align: center;
+  image-align: center;
+}
+
+
+/* Links */
+.sidebar a {
+  display: block;
+  color: #48B6ED;
+  text-decoration: none;
+  margin: 8px 0;
+  font-size: 0.95em;
+  line-height: 1.5;
+  left: 0;
+}
+
+.sidebar a:hover {
+  color: #64B4DD;
+  text-decoration: underline; 
+}
+
+
+
+/* Main content */
+.main-content {
+  margin-left: 110px;  /* shifts all text to the right of sidebar */
+  padding: 40px;
+  max-width: 900px;
+}
+</style>
+
+}
+
+
+
+/* Optional: ensure title and header stay aligned */
+h1.title
+
+
+
+
+

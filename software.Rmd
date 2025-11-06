@@ -1,0 +1,132 @@
+---
+title: ""
+output: html_document
+includes:
+      in_header: header.html
+
+  # md_extensions: +raw_html
+---
+
+<style>
+body {
+  margin: 0;
+  font-family: "Helvetica", sans-serif;
+}
+</style>
+
+
+<style>
+.pair {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  background-color: #E8EEF3;
+}
+.pair img {
+  width: 160px;
+  margin-right: 15px;
+}
+</style>
+
+<style>
+.strong {
+  color: #333;
+  <!-- text-decoration: none; -->
+  text-decoration: underline;       
+  text-decoration-color: #888;      
+  text-decoration-thickness: 2px;   
+  text-underline-offset: 4px;
+  margin: 8px 0;
+  font-size: 3px;
+}
+</style>
+
+
+
+<div class="main-content">
+
+## Software
+
+<div class="pair">
+  &nbsp;&nbsp;&nbsp;
+  <img src="logos/SCRuB_logo.png" alt="SCRuB" padding="50px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <div> 
+  <strong style="font-size:1.7em"> SCRuB </strong><a href="https://shenhav-and-korem-labs.github.io/SCRuB/" target="_blank">
+      <i class="fa-solid fa-laptop-code" style="font-size:1.5em; padding:0 8px;"></i></a> 
+    </strong><a href="https://github.com/Shenhav-and-Korem-labs/SCRuB" target="_blank">
+      <i class="fab fa-github" style="font-size:1.5em; padding:0 8px;"></i></a>
+    </strong><a href="https://www.nature.com/articles/s41587-023-01696-w" target="_blank">
+      <i class="fa-solid fa-file-alt" style="font-size:1.5em; padding:0 8px;"></i></a>
+    <br>
+    **S**ource-tracking for **C**ontamination **R**emoval in **microB**iomes <br>
+    In silico removal of contamination from microbial count data using process controls.
+    <br>
+    Austin et al., <em>Nature Biotechnology</em> 2023.
+  </div>
+</div>
+
+------------
+
+
+<div class="pair">
+  <img src="logos/DEBIAS-M-logo.png" alt="DEBIAS-M" padding="50px" style="width:195px"> &nbsp;&nbsp;
+  <div> 
+  <strong style="font-size:1.7em"> DEBIAS-M </strong><a href="https://korem-lab.github.io/DEBIAS-M/" target="_blank">
+      <i class="fa-solid fa-laptop-code" style="font-size:1.5em; padding:0 8px;"></i></a> 
+    </strong><a href="https://github.com/korem-lab/DEBIAS-M" target="_blank">
+      <i class="fab fa-github" style="font-size:1.5em; padding:0 8px;"></i></a>
+    </strong><a href="https://www.nature.com/articles/s41564-025-01954-4" target="_blank">
+      <i class="fa-solid fa-file-alt" style="font-size:1.5em; padding:0 8px;"></i></a>
+    <br>
+    **D**omain adaptation with phenotype **E**stimation and **B**atch **I**ntegration **A**cross **S**tudies of the **M**icrobiome
+    <br>
+  Correction of processing bias across microbiome batches and studies.
+  <br>
+  Austin et al., *Nature Microbiology* 2025
+  </div>
+</div>
+
+------------
+
+<div class="pair">
+<br>
+  &nbsp;
+  <img src="logos/RLOOCV-logo.png" alt="RebalancedCV" padding="50px" style="width:190px"> &nbsp;
+  <br>
+  <div> 
+  <strong style="font-size:1.7em"> RebalancedCV </strong><a href="https://korem-lab.github.io/RebalancedCV/" target="_blank">
+      <i class="fa-solid fa-laptop-code" style="font-size:1.5em; padding:0 8px;"></i></a> 
+    </strong><a href="https://github.com/korem-lab/RebalancedCV" target="_blank">
+      <i class="fab fa-github" style="font-size:1.5em; padding:0 8px;"></i></a>
+    </strong><a href="https://arxiv.org/abs/2406.01652" target="_blank">
+      <i class="fa-solid fa-file-alt" style="font-size:1.5em; padding:0 8px;"></i></a>
+    <br>
+    Cross validation while accounting for distributional bias.
+    <br>
+    Austin et al., *arXiv* 2025.
+  </div>
+</div>
+
+------------
+
+<div class="pair">
+<br>
+  &nbsp;&nbsp;&nbsp;
+  <img src="logos/SLICE_logo.png" alt="SLICE" padding="50px" style="width:170px"> &nbsp;&nbsp;&nbsp;
+  <br>
+  <div> 
+  <strong style="font-size:1.7em"> SLICE </strong>
+    </strong><a href="https://github.com/korem-lab/SLICE" target="_blank">
+      <i class="fab fa-github" style="font-size:1.5em; padding:0 8px;"></i>
+    </a>
+    <br>
+    **S**ite-**L**evel **I**ndependent **C**ross-**E**valuation
+    <br>
+    Unbiased cross validation in complex experimental settings.
+    <br>
+    Austin et al., *under review*.
+  </div>
+</div>
+
+
+
