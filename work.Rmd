@@ -125,16 +125,16 @@ body {
 
 
 
-::: {.degree-entry}
-<div class="left">
-**Jazz House Kids**  
-<span class="degree">Musician/Teaching Assistant</span>
-</div>
-<div class="right">
-**Montclair, NJ**  
-*2012 - 2019*
-</div>
-:::
+<!-- ::: {.degree-entry} -->
+<!-- <div class="left"> -->
+<!-- **Jazz House Kids**   -->
+<!-- <span class="degree">Musician/Teaching Assistant</span> -->
+<!-- </div> -->
+<!-- <div class="right"> -->
+<!-- **Montclair, NJ**   -->
+<!-- *2012 - 2019* -->
+<!-- </div> -->
+<!-- ::: -->
 
 
 
@@ -156,7 +156,7 @@ body {
 
 ::: {.degree-entry}
 <div class="left">
-**Institution Nominee, Regeneron Prize for Creative Innovation**  
+**Institutional Nominee, Regeneron Prize for Creative Innovation**  
 <span class="subtext">Vagelos College of Physicians and Surgeons, Columbia University Irving Medical Center</span>
 </div>
 <div class="right">
