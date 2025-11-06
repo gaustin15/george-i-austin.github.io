@@ -100,7 +100,7 @@ body {
 **Optum Labs, UnitedHealth Group**  
 <span class="degree">Principal Machine Learning Scientist</span>
 <ul>
-<li>Built predictive models for colorectal cancer screening</li>
+<li>Developped survival analysis framework to assess colorectal cancer screening patterns</li>
 <li>Novel transformer architectures to predict risk of multi-drug contraindications</li>
 <li>Led research to develop and implement AI methods for automated prior authorization approvals</li>
 </ul>
